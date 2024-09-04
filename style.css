@@ -3,3 +3,16 @@
   background-image: linear-gradient(10px #f2f456);
   border: 10px solid #000;
 }
+
+.img {
+  background-image: url(https://picsum.photos/800/800?grayscale);
+  border: 10px solid black;
+  width: 800px;
+}
+
+.div {
+  width: 500px;
+  height: 500px;
+  background-image: url(https://picsum.photos/800/800?grayscale);
+  border: 10px solid black;
+}
