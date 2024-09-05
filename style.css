@@ -16,3 +16,11 @@
   background-image: url(https://picsum.photos/800/800?grayscale);
   border: 10px solid black;
 }
+
+.divdiv {
+  width: 150px;
+  height: 150px;
+  border: 2px solid #f2f456;
+  background: linear-gradient(#fdfd #fff);
+  background-color: aqua;
+}
